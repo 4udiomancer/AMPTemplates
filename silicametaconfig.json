@@ -1,0 +1,8 @@
+[
+    {
+        "ConfigFile": "ServerSettings.xml",
+        "ConfigType": "xml",
+        "AutoMap": true,
+        "Importable": true
+    }
+]

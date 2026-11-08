@@ -1,0 +1,11 @@
+[
+    {
+        "UpdateStageName": "General Install",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceArch": "x86_64",
+        "UpdateSourceData": "2738040",
+        "UpdateSourceArgs": "1494420",
+        "OneShot": true
+    }
+]

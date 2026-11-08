@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91eff",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/4udiomancer/AMPTemplates.git",
-	"url": "https://github.com/4udiomancer/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "8650f7e0-117f-4e8a-aa01-993095469b82",
+    "authors": [
+        "4udiomancer - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/4udiomancer/AMPTemplates.git",
+    "url": "https://github.com/4udiomancer/AMPTemplates",
+    "imagefile": "",
+    "prefix": "4udiomancer"
 }
