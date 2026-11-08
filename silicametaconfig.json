@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "ServerSettings.xml",
+        "ConfigFile": "/Silica_Data/ServerSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true,
         "Importable": true
